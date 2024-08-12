@@ -5,3 +5,4 @@ accelerate
 matplotlib
 huggingface_hub
 triton
+aiohttp>=3.10.2 # not directly required, pinned by Snyk to avoid a vulnerability
