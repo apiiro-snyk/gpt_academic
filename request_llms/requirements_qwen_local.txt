@@ -3,3 +3,4 @@ transformers_stream_generator
 auto-gptq
 optimum
 urllib3<2
+transformers>=4.48.0 # not directly required, pinned by Snyk to avoid a vulnerability
